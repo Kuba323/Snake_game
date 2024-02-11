@@ -1,4 +1,4 @@
-# Simple terminal snake game
+# Terminal snake game
 ### General info
 The aim of the project was to create a game for a programming course.
 ### Technolgies
