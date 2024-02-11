@@ -1,6 +1,6 @@
 # Terminal snake game
 ### General info
-The aim of the project was to create a game for a programming course.
+The aim of the project was to create a game for a object programming course.
 ### Technolgies
 - C++ 14
 ### To Do
